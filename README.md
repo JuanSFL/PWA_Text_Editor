@@ -15,6 +15,13 @@
   
   ## [Description](#table-of-contents)
   This application takes a functioning text editor app and adds functionality for it to work as a progressive web application and to be able to download it to your hard drive to be able to use it offline.
+  
+ * Here is a demo of the app functionality, this video also shows the manifest.json, the service worker, and the indexedDB
+ 
+
+https://user-images.githubusercontent.com/113400746/221245064-c032c4cc-ebd2-47ba-91e0-e6e11afa8f06.mp4
+
+
   ## [Installation](#table-of-contents)
    * Clone the github repository and run `npm install` to install all dependencies. 
    * Once completed, run the command : `npm run start:dev`
